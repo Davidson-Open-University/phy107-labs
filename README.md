@@ -1,6 +1,6 @@
 # PHY 107 · General Practical Physics I — Online Lab Notebooks
 
-Davidson Open University Global
+Davidson Open University
 
 These are the ten online lab notebooks for **PHY 107 General Practical Physics I**. Each lab goes with one unit of the Moodle course. Every lab pairs a free **open educational resource (OER) simulation** (PhET, Open Source Physics @ Singapore or Virtual Labs India) with a **Python notebook** where you record, analyse and check your results. You run the notebooks in your web browser with **Google Colab** (free, nothing to install) or offline on your own computer with **Jupyter**.
 
@@ -60,4 +60,4 @@ If a notebook will not open or run, post in the course **Q&A forum** in Moodle, 
 Simulations are linked, not copied: PhET Interactive Simulations, University of Colorado Boulder (CC BY 4.0); Open Source Physics @ Singapore (CC BY / CC BY-SA); Virtual Labs, Government of India. 
 
 ---
-© Davidson Open University Global. For PHY 107 students.
+© Davidson Open University. For PHY 107 students.
